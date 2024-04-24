@@ -1,0 +1,5 @@
+git clone https://github.com/ANISSSSSH/ANISSSH
+cd ANISSSSSH
+python new.py
+●NOTE THIS IS A FREE TOOL!
+●THIS IS FOR EDUCATIONAL PURPOSES ONLY!!
